@@ -84,9 +84,9 @@ week01-session01: add solutions
 
 ---
 
-## 👥 Study Members
+## 👥 팀원 소개
 
-- 전성훈
-- 김혜빈
-- 정우인
-- 차아현
+| [전성훈](https://github.com/ppp1969) | [김혜빈](https://github.com/sunkong25) | [차아현](https://github.com/ahhyunii) | [정우인](https://github.com/woo-in) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/ppp1969.png" width="190" height="190"> | <img src="https://github.com/sunkong25.png" width="190" height="190"> | <img src="https://github.com/ahhyunii.png" width="190" height="190"> | <img src="https://github.com/woo-in.png" width="190" height="190"> |
+| SeongHun Jeon | KIM HYE BIN | ahhyunii | 정우인 |
